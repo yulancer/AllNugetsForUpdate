@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllNugetsForUpdate", "AllNugetsForUpdate\AllNugetsForUpdate.csproj", "{0B64F330-ACBC-45CB-AE9C-061EC51BAA99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{ABBEBCCD-5884-4426-80C9-4DFEAD545F2A}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B64F330-ACBC-45CB-AE9C-061EC51BAA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B64F330-ACBC-45CB-AE9C-061EC51BAA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B64F330-ACBC-45CB-AE9C-061EC51BAA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B64F330-ACBC-45CB-AE9C-061EC51BAA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
